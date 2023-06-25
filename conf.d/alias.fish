@@ -10,8 +10,6 @@ alias la="ls -lah"
 
 alias lg="lazygit"
 
-alias ssh="mosh"
-
 alias vi="nvim"
 alias vim="nvim"
 
